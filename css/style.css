@@ -1,0 +1,13 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  height: 75px;
+  width: 75px;
+  border-radius: 50%;
+  background-image: url("../assets/images/revoU-logo.png");
+  background-color: gainsboro;
+  background-size: contain;
+}
